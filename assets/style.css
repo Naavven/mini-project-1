@@ -1,0 +1,73 @@
+* { 
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+    margin: 0;
+    padding: 0; 
+}
+
+    header{
+        background-color: darkgreen;
+    }
+
+    footer{
+        background-color: darkgreen;
+    }
+
+    nav{
+        text-align:right ;
+        padding: 5px;
+        border-bottom: 3px solid brown;
+    }
+
+li{
+    display: inline;
+    margin-right: 10px;
+}
+h1{
+    
+    margin: 20px;
+}
+form ul li{
+    display: block;
+    margin-bottom: 5px;
+}
+
+label{
+    min-width: 100px;
+}
+button{
+    padding: 5px;
+    background-color: darkseagreen;
+    border: none;
+}
+footer{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.intro{
+    text-align: center;
+
+}
+.intro p{
+    margin: 20px;
+}
+.contact-me{
+    background-color: bisque;
+    border-top: 2px solid brown;
+    text-align: center;
+    padding: 20px;
+}
+.contact-me h2{
+    margin: 10px;
+
+}
+.contact-me form{
+    border: 2px solid brown;
+    width: 600px;
+    margin: 0 auto;
+    padding: 15px;
+
+}
+
